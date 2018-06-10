@@ -1,11 +1,11 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
 
-Project:	Shield Theme
+Project: Four Eyed Sumo
 Version:	1.0
-Last change:	
-Assigned to: 20/06/2016
-Primary use:
+Assigned to: 23/06/2016
+Last change: 
+Primary use: C and S Themed Events
 	
 -------------------------------------------------------------------*/
 
@@ -276,7 +276,7 @@ main {
 	letter-spacing: 0.45px;
 }
 .contact-banner {
-	background-image: url("http://placehold.it/1920x613/000");
+	background-image: url("../images/contact-us-header.jpg");
 }
 .contact-banner::after {
 	background-color: rgba(0,0,0,0.35);
@@ -286,7 +286,7 @@ main {
 	height: 717px;;
 }
 .about-us-banner-2 {
-	background-image: url("http://placehold.it/1920x613/000");
+	background-image: url("../images/about-us-banner.jpg");
 	height: 717px;;
 }
 .about-us-banner-1::after,
@@ -301,7 +301,7 @@ main {
 	background-color: rgba(0,0,0,0.65);
 }
 .services-banner{
-	background-image: url("http://placehold.it/1920x613/000");
+	background-image: url("../images/services-banner.jpg");
 }
 .services-banner::after {
 	background-color: rgba(0,0,0,0.55);

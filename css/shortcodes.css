@@ -268,6 +268,7 @@ Last change:
 	padding: 0 20%;
 	/*font-style: italic;*/
 	margin-bottom: 50px;
+	text-align: left;
 }
 .about-section .about-detail a {
 	color: #cc9900;
@@ -337,7 +338,7 @@ Last change:
 
 /* - Brand Section */
 .corporate-home-dark .brands-section  {
-	background-color: #303030;
+	background-color: #333333;
 }
 .corporate-home-dark .brands-section .brand-carousel-1 .item .col-md-12 {
 	border-bottom-color: #4b4b4b;
@@ -4039,7 +4040,7 @@ Last change:
 	color: #fff;
 }
 .call-out-blck-bg {
-	background-color: #333;
+	background-color: #555;
 }
 .call-out-blck-bg .call-out-content p {
 	color: #ccc;
@@ -4220,7 +4221,7 @@ Last change:
 	content: "\35";
 }
 .carousel-section-1 {
-	background-image: url("http://placehold.it/1920x588/ddd");
+	background-image: url("../images/testimonials-banner.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
