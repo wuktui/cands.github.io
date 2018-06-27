@@ -565,6 +565,11 @@ Last change:
 }
 
 /* - Portfolio Section */
+
+.portfolio-section-video {
+    overflow: hidden;
+    background-color: #fff;
+}
 .portfolio-section {
 	overflow: hidden;
 }
