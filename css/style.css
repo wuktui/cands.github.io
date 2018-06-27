@@ -3,7 +3,7 @@
 
 Project: Four Eyed Sumo
 Version:	1.0
-Assigned to: 23/06/2016
+Assigned to: 23/06/2018
 Last change: 
 Primary use: C and S Themed Events
 	
@@ -125,6 +125,7 @@ main {
 /* - Page Bradcrumb */
 .page-breadcrumb {
 	background-color: #f6f6f6;
+	background-image: url(../images/portfolio-banner.jpg);
 	padding: 105px 0;
 	text-align: center;
 }
