@@ -227,16 +227,16 @@ main {
 
 /* - Page Banner */
 .page-banner {
-	background-image: url("http://placehold.it/1920x613/000");
+	background-image: url("../images/portfolio-banner.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	padding: 200px 0;
-	position: relative; 
+	position: relative;
 	text-align: center;
 	z-index: 1;
 	min-height: 613px;
- }
+	}
 .page-banner::after {
 	background-color: rgba(0,0,0,0.2);
 	content: "";
@@ -307,12 +307,7 @@ main {
 .services-banner::after {
 	background-color: rgba(0,0,0,0.55);
 }
-.portfolio-banner {
-    background-image: url(../images/portfolio-banner.jpg);
-}
-.portfolio-banner::after {
-	background-color: rgba(0,0,0,0.55);
-}
+
 /* - Corporate Home Dark */
 .corporate-home-dark {
 	background-color: #2b2b2b;
